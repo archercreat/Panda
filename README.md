@@ -10,4 +10,4 @@ Full writeup(rus) available here: https://archercreat.github.io/psexec_encryptio
 
 ### Disclamer
 
-The CMakeLists file wil not work on your system, sorry :p
+The CMakeLists file will not work on your system, sorry :p
