@@ -6,3 +6,8 @@ Shared library used to inject into lsass.exe process to log NTLM crypto function
 kernel_panda.js is a WinDbg script used to log kernel smb crypto routines.
 
 Full writeup(rus) available here: https://archercreat.github.io/psexec_encryption/
+
+
+### Disclamer
+
+The CMakeLists file wil not work on your system, sorry :p
