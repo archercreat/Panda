@@ -1,4 +1,0 @@
-#ifndef PANDA_LIBRARY_H
-#define PANDA_LIBRARY_H
-
-#endif //PANDA_LIBRARY_H
