@@ -8,6 +8,6 @@ kernel_panda.js is a WinDbg script used to log kernel smb crypto routines.
 Full writeup(rus) available here: https://archercreat.github.io/psexec_encryption/
 
 
-### Disclamer
+### Disclaimer
 
 The CMakeLists file will not work on your system, sorry :p
